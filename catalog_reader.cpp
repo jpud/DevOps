@@ -18,6 +18,6 @@ int main(int argc, char* argv[]) {
             std::cout << line.substr(start, end - start) << std::endl;
         }
     }
-    std::cout<<"Pipelinetest"<<std::endl;
+    std::cout<<"Pipeline test 2"<<std::endl;
     return 0;
 }
